@@ -1,3 +1,5 @@
+// I don't own this.  I grabbed it from the QEMU source code.
+
 static uint8_t vgafont16[256 * 16] PROGMEM = {
 
 	/* 0 0x00 '^@' */
